@@ -3,9 +3,9 @@
 <!--
 **astharamwala/astharamwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on `Machine learning based project`
-- 🌱 I’m currently learning `Django Framework, Java Spring`
-- 👯 I like reading - current read is `How to Win Friends and Influence People`
+- 🔭 I’m currently working on `Plugin based project in Fast API with React`
+- 🌱 I’m currently learning `Fast API with React`
+- 👯 I like reading - current read is `The Forest of Enchantments`
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 - ⚡ Fun fact: I am foodie and I love 🍕
 - 💁‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
