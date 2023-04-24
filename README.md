@@ -8,7 +8,7 @@
 - 👯 I like reading - current read is `The Forest of Enchantments`
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 - ⚡ Fun fact: I am foodie and I love 🍕
-- 💁‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 💁‍💻 Life Hack: Learn new tech :fire: and share what you have learnt :tada:
 
 ### Connect with me:
 [<img align="left" alt="astharamwala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
