@@ -3,8 +3,8 @@
 <!--
 **astharamwala/astharamwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on `Plugin based project in Fast API with React`
-- 🌱 I’m currently learning `Fast API with React`
+- 🔭 I’m currently working on `Data Commersialization Engine which generates timeseries data`
+- 🌱 I’m currently learning `K8S`
 - 👯 I like reading - current read is `The Forest of Enchantments`
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 - ⚡ Fun fact: I am foodie and I love 🍕
