@@ -1,4 +1,4 @@
-### Hi there 👋 , **Myself Astha Ramwala**
+### Hi there 👋 , **Myself Astha Pachchigar**
 
 <!--
 **astharamwala/astharamwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
